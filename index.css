@@ -1,0 +1,14 @@
+.nav-flex-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    position: absolute;
+    z-index: 100;
+    left: 0;
+    width: 100%;
+    padding: 0;
+}
+
+.about-us h1 {
+    font-family: sans-serif;
+}
