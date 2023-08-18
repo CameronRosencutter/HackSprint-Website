@@ -9,6 +9,12 @@
     padding: 500;
 }
 
+.nav-flex-row li {
+    text-decoration: none;
+    list-style-type: none;
+    padding: 20px 15px;
+}
+
 .about-us h1 {
     font-family: 'Times New Roman', Times, serif sans-serif;
 }
