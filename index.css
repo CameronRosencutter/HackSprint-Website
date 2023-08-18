@@ -6,9 +6,9 @@
     z-index: 100;
     left: 0;
     width: 100%;
-    padding: 0;
+    padding: 500;
 }
 
 .about-us h1 {
-    font-family: sans-serif;
+    font-family: 'Times New Roman', Times, serif sans-serif;
 }
