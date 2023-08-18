@@ -25,6 +25,7 @@
 }
 
 .about-us p {
+    justify-content: left;
     text-align: left;
     width: 40%;
     margin: auto;
