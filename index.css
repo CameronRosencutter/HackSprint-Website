@@ -21,8 +21,6 @@
 
 .banner-section {
     padding: 200px 500px
-    display: flex;
-    flex-direction: column;
     justify-content: center;
     align-items: center;
 }
