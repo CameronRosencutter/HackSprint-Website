@@ -41,6 +41,10 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+
+.page-body {
+    background-color: cadetblue;
+}
 .row {
     display: flex;
     flex-wrap: wrap;
@@ -60,4 +64,12 @@
 .column img {
     margin-top: 8px;
     vertical-align: middle;
+}
+
+.menu-item-title {
+text-align: center;
+}
+
+.menu-item-description {
+
 }
