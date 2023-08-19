@@ -89,7 +89,9 @@ text-align: center;
     grid-column-gap: 20px;
     grid-row-gap: 20px;
     outline: auto white dashed;
-    box-shadow: inset;
+    box-shadow: 50px;
+    border: 59px white;
+    position: center;
     }
     
     .div1 { grid-area: 1 / 1 / 2 / 2; }
