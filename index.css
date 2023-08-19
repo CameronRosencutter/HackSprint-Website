@@ -59,6 +59,8 @@
     border-width: 5px;
     border-color: aqua;
     vertical-align: middle;
+    display: grid;
+    grid-template-columns: 22%;
 }
 
 .column img {
