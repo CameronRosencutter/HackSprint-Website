@@ -10,6 +10,7 @@
 }
 
 .nav-flex-row li {
+    background-color: white;
     text-decoration: none;
     list-style-type: none;
     padding: 20px 15px;
