@@ -99,4 +99,7 @@ text-align: center;
     .div7 { grid-area: 3 / 2 / 4 / 3; }
     .div8 { grid-area: 4 / 2 / 5 / 3; }
 
-    .div1 
+    .white-box {
+        background-color: white;
+        color: black;
+    }
