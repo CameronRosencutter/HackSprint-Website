@@ -1,3 +1,3 @@
 # HackSprint-Website
 
-[checklist](https://trello.com/b/0zztTMTw/ndhlovu-rosencutter-hacksprint)
+[Trello Checklist](https://trello.com/b/0zztTMTw/ndhlovu-rosencutter-hacksprint)
