@@ -64,6 +64,9 @@
 .column img {
     margin-top: 8px;
     vertical-align: middle;
+    border: 1px dashed;
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
 }
 
 .menu-item-title {
