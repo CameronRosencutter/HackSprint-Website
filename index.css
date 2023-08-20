@@ -102,4 +102,5 @@ text-align: center;
     .white-box {
         background-color: white;
         color: black;
+        size: 50px 90px;
     }
