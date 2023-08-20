@@ -124,4 +124,23 @@ text-align: center;
         font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     }
 
+    .page-body{
+        height: 100vh;
+	    display: grid;
+	    Place-items: center;
+        Background: black;
+    }
+
+    .slider.container {
+        Height: 500px;
+        Width: 800px;
+        Display: flex;
+        Overflow: auto;
+        Scroll-snap-type: x mandatory;
+        }
+        
+        .slider-container .slide {
+        Scroll-snap-align: start;
+        }
+
     
