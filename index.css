@@ -97,7 +97,7 @@ text-align: center;
     display: inline;
     }
     
-    .div1 { grid-area: 1 / 1 / 2 / 2; display: flex; }
+    .div1 { grid-area: 1 / 1 / 2 / 2; display: inline-flex; }
     .div2 { grid-area: 2 / 1 / 3 / 2; display: flex; }
     .div3 { grid-area: 1 / 2 / 2 / 3; display: flex; }
     .div4 { grid-area: 2 / 2 / 3 / 3; display: flex; }
