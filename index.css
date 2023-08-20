@@ -143,4 +143,8 @@ text-align: center;
         Scroll-snap-align: start;
         }
 
-    
+        .slider-container {
+            Height: 500px;
+            Width: 800px;
+            Object-fit: cover;
+        }
