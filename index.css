@@ -101,6 +101,7 @@ text-align: center;
 
     .white-box {
         background-color: white;
+        display: flex;
         color: black;
         height: 150px;
         width: 500px;
