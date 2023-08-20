@@ -94,7 +94,6 @@ text-align: center;
     justify-content: right;
     font-family: cursive;
     color: blue;
-    display: inline;
     }
     
     .div1 { grid-area: 1 / 1 / 2 / 2; display: flex; }
