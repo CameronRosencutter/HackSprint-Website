@@ -211,10 +211,11 @@ text-align: center;
             overflow:hidden;
             white-space: nowrap;
             padding: 10px;
-            overflow-y: hidden;
           }
           
           .div11 img {
             padding: 10px;
           }
+
+          html {background-color: black}
 
