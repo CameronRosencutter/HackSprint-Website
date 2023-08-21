@@ -203,7 +203,7 @@ text-align: center;
             padding: 10px;
             display: flex;
             overflow: hidden; 
-            display: inline-block;
+            display: inline-flex
           }
           
           div.scroll-container img {
