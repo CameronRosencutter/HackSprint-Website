@@ -361,6 +361,7 @@ text-align: center;
                 text-indent: 30px;
                 border: 1px solid rgb(255, 255, 255);
                 outline: 5px dotted rgb(35, 164, 162);
+                width: 500px;
             }
 
             .divi g {
