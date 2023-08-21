@@ -300,7 +300,9 @@ text-align: center;
                 color: white;
             }
 
-            .divg { grid-area: 4 / 2 / 5 / 3; }
+            .divg { grid-area: 4 / 2 / 5 / 3;
+                width: 500px;
+            }
 
             .divg p {
                     color:#00385a;
@@ -339,7 +341,9 @@ text-align: center;
             }
 
 
-            .divk { grid-area: 6 / 2 / 7 / 3; }
+            .divk { grid-area: 6 / 2 / 7 / 3;
+                width: 500px;
+            }
 
             .divi p {
                 color:#00385a;
