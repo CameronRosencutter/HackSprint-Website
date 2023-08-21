@@ -1,5 +1,13 @@
 # HackSprint Website: Betty's Breakfast Bistro
 
+This repository contains a web front-end for Betty's Breakfast Bistro
+
+Within, there are demonstrations of the following techniques:
+- [HackSprint Website: Betty's Breakfast Bistro](#hacksprint-website-bettys-breakfast-bistro)
+    - [Fetching Local Assets](#fetching-local-assets)
+    - [Internal Links](#internal-links)
+    - [CSS Stylesheets](#css-stylesheets)
+
 [Trello Checklist](https://trello.com/b/0zztTMTw/ndhlovu-rosencutter-hacksprint)
 
 <details>
@@ -15,13 +23,6 @@ summarize the steps we took to create the front-end
 
 image of trello category for the sections and how we did them
 
-This repository contains a web front-end for Betty's Breakfast Bistro
-
-Within, there are demonstrations of the following techniques:
-- [HackSprint Website: Betty's Breakfast Bistro](#hacksprint-website-bettys-breakfast-bistro)
-    - [Fetching Local Assets](#fetching-local-assets)
-    - [Internal Links](#internal-links)
-    - [CSS Stylesheets](#css-stylesheets)
 
 ### Fetching Local Assets
 * placeholder: an image asset on webpage
