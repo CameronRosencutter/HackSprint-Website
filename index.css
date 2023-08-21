@@ -214,6 +214,8 @@ text-align: center;
           }
           
         .div11 img {
+            height: 50%;
+            width: auto;
             padding: 10px;
           }
 
