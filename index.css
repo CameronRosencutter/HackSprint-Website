@@ -208,9 +208,10 @@ text-align: center;
 
         .div11 {
             background-color: #19037a;
-            overflow: auto;
+            overflow:hidden;
             white-space: nowrap;
             padding: 10px;
+            overflow-y: hidden;
           }
           
           .div11 img {
