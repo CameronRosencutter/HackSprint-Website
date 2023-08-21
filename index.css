@@ -199,11 +199,11 @@ text-align: center;
         div.scroll-container {
             background-color: #333;
             overflow: auto;
-            display: flex;
+            display: inline;
             top: 25%;
           }
           
           div.scroll-container img {
             padding: 10px;
-            display: flex;
+            display: inline;
           }
