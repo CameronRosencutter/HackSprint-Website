@@ -167,10 +167,7 @@ text-align: center;
             height: 50px;
         }
 
-        .div11 { grid-area: 2 / 1 / 3 / 4; 
-                background-color: rgb(118, 40, 179); 
-                vertical-align: top;
-        }
+       
 
 
         .div12 { grid-area: 3 / 1 / 4 / 2; background-color: rgb(247, 15, 15); display: flex;}
