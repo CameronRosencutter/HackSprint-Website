@@ -23,12 +23,6 @@
     margin-left: 5%;
 }
 
-.About-us p {
-    background-color: white;
-    justify-content: left;
-    margin-left: 5%;
-
-}
 
 
 .banner-section {
@@ -47,8 +41,9 @@
 .About-us p {
     text-align: left;
     width: 60%;
-    margin: auto;
+    margin-left: 12px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: white;
 }
 
 
