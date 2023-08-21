@@ -3,6 +3,7 @@
 This repository contains the web front-end for Betty's Breakfast Bistro
 
 Within, there are demonstrations of the following techniques:
+
 - [HackSprint Website: Betty's Breakfast Bistro](#hacksprint-website-bettys-breakfast-bistro)
     - [Fetching Local Assets](#fetching-local-assets)
     - [Internal Links](#internal-links)
@@ -10,23 +11,25 @@ Within, there are demonstrations of the following techniques:
 
 [Trello Checklist](https://trello.com/b/0zztTMTw/ndhlovu-rosencutter-hacksprint)
 
-<details>
-    <summary>Resources Consulted</summary>
-    <ul>
-        <li>[creating image grids](https://www.w3schools.com/howto/howto_js_image_grid.asp)</li>
-    </ul>
-</details>
 
+placeholder: summarize the steps we took to create the front-end
 
-
-summarize the steps we took to create the front-end
-
-image of trello category for the sections and how we did them
+placeholder: image of trello category for the sections and how we did them
 
 
 ### Fetching Local Assets
-* placeholder: an image asset on webpage
-* placeholder: image of code that fetches it
+<p align="left">
+    <details>
+        <summary>How it is</summary>
+        <img src="Assets/Images/README_images/fetch_local_asset_asset.PNG" width="400\"/>
+    </details>
+<br>
+    <details>
+        <summary>How it got there</summary>
+        <img src="Assets/Images/README_images/fetch_local_asset_fetch.PNG" width="400\"/>
+    </details>
+  <img src="" width="400\"/>
+</p>
 
 ### Internal Links
 * placeholder: image of banner
@@ -36,3 +39,9 @@ image of trello category for the sections and how we did them
 * placeholder: image of part of website that uses a style
 * placeholder: image of code that applies to the above "part of website that uses a style"
 
+<details>
+    <summary>Resources Consulted</summary>
+    <ul>
+        <li>[creating image grids](https://www.w3schools.com/howto/howto_js_image_grid.asp)</li>
+    </ul>
+</details>
