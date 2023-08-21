@@ -217,6 +217,7 @@ text-align: center;
             height: 90%;
             width: auto;
             padding: 10px;
+            outline: #ccece6 10px;
           }
 
           html {background-color: #00385a;}
