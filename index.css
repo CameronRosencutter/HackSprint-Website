@@ -34,13 +34,16 @@
 }
 
 .About-us h1 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: cursive;
     font-weight: 700;
+    font-size: 40px;
+    display: flex;
 }
 
 .About-us p {
     text-align: left;
-    width: 60%;
+    width: 80%;
+    height: 140px;
     margin-left: 12px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: white;
