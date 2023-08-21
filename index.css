@@ -285,6 +285,11 @@ text-align: center;
                 text-indent: 30px;
             }
 
+            .dive p1 {
+                color:#1c2650;
+                position: absolute;
+            }
+
 
             .divf { grid-area: 3 / 2 / 4 / 3; }
 
