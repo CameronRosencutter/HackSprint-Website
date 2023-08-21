@@ -207,8 +207,13 @@ text-align: center;
         }
 
         .div11 {
+<<<<<<< HEAD
+            background-color:#00385a;
+            overflow:auto;
+=======
             background-color: #19037a;
             overflow:scroll;
+>>>>>>> 9a91beee7fd72a4bdd36bb12ed65c048e9ea4cc0
             white-space: nowrap;
             padding: 10px;
           }
