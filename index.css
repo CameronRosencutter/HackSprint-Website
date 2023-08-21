@@ -255,6 +255,14 @@ text-align: center;
             }
 
             .divc { grid-area: 2 / 1 / 3 / 3; }
+
+            .divc h1 {
+                font-size: 50px;
+                font-family: cursive;
+                color: white;
+                text-align: center;
+            }
+
             .divd { grid-area: 3 / 1 / 4 / 2; }
             .dive { grid-area: 4 / 1 / 5 / 2; }
             .divf { grid-area: 3 / 2 / 4 / 3; }
