@@ -29,7 +29,6 @@ placeholder: image of trello category for the sections and how we did them
         <summary>The Code</summary>
         <img src="Assets/Images/README_images/fetch_local_asset_fetch.PNG" width="400\"/><br>
     </details>
-  <img src="" width="400\"/>
 </p>
 
 ### Internal Links
@@ -54,7 +53,6 @@ placeholder: image of trello category for the sections and how we did them
         The css file is linked as the stylesheet for the html document:<br>
         <img src="Assets/Images/README_images/css_formatting_html_link.PNG" width="400\"/><br>
     </details>
-  <img src="" width="400\"/>
 </p>
 
 ### Supplimentary Resources
