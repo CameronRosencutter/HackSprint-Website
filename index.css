@@ -208,7 +208,7 @@ text-align: center;
 
         .div11 {
             background-color: #19037a;
-            overflow:hidden;
+            overflow:scroll
             white-space: nowrap;
             padding: 10px;
           }
@@ -217,5 +217,5 @@ text-align: center;
             padding: 10px;
           }
 
-          html {background-color: black}
+          html {background-color: #00385a;}
 
