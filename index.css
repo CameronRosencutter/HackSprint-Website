@@ -205,3 +205,13 @@ text-align: center;
             background:#0e6296;
         }
 
+        .clearfix:after {
+            clear:both;
+            content:".";
+            display:block;
+            font-size:0;
+            height:0;
+            visibility:hidden;
+        }
+        .clearfix { display:block; }
+
