@@ -20,12 +20,12 @@ placeholder: image of trello category for the sections and how we did them
 ### Fetching Local Assets
 <p align="left">
     <details>
-        <summary>How it is</summary>
+        <summary>The Creation</summary>
         <img src="Assets/Images/README_images/fetch_local_asset_asset.PNG" width="400\"/>
     </details>
 <br>
     <details>
-        <summary>How it got there</summary>
+        <summary>The Code</summary>
         <img src="Assets/Images/README_images/fetch_local_asset_fetch.PNG" width="400\"/>
     </details>
   <img src="" width="400\"/>
