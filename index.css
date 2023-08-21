@@ -201,9 +201,6 @@ text-align: center;
             overflow: auto;
             white-space: nowrap;
             padding: 10px;
-            display: flex;
-            overflow: hidden; 
-            display: inline-flex
           }
           
           div.scroll-container img {
