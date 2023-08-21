@@ -1,6 +1,6 @@
 # HackSprint Website: Betty's Breakfast Bistro
 
-This repository contains a web front-end for Betty's Breakfast Bistro
+This repository contains the web front-end for Betty's Breakfast Bistro
 
 Within, there are demonstrations of the following techniques:
 - [HackSprint Website: Betty's Breakfast Bistro](#hacksprint-website-bettys-breakfast-bistro)
