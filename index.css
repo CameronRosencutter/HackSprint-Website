@@ -128,18 +128,18 @@ text-align: center;
         display: grid;
         grid-template-columns: repeat(3, 1fr);
         grid-template-rows: repeat(3, 1fr);
-        grid-column-gap: 20px;
-        grid-row-gap: 20px;
+        grid-column-gap: 0px;
+        grid-row-gap: 0px;
         }
         
 
         .div9 { 
             grid-area: 1 / 1 / 2 / 2; 
-            background-color: beige; 
+            background-color: #00385a; 
             display: flex;
             justify-content: center;
             font-family: cursive;
-            color: blue;
+            color: white;
             font-size: 10px;
             height: 50px;
         }
@@ -160,7 +160,8 @@ text-align: center;
         }
         
         .div10 { 
-            grid-area: 1 / 2 / 2 / 4; background-color: rgb(169, 169, 39); 
+            grid-area: 1 / 2 / 2 / 4; 
+            background-color: #00385a; 
             display: flex;
             height: 50px;
         }
@@ -175,13 +176,13 @@ text-align: center;
             position: relative;
             list-style:none;
             height:50px; line-height:50px;
-            background:#0d7963; /* you can change the backgorund color here. */
+            background:#1c2650; /* you can change the backgorund color here. */
             font-family:Arial, Helvetica, sans-serif;
             font-size:13px;
             float: right;
         }
         ul.nav li {
-            border-right:1px solid #189b80; /* you can change the border color matching to your background color */
+            border-right:1px solid #065b8f; /* you can change the border color matching to your background color */
             float:left;
         }
         ul.nav a {
@@ -192,5 +193,5 @@ text-align: center;
         }
         ul.nav a:hover,
         ul.nav li.current a {
-            background:#086754;
+            background:#0e6296;
         }
