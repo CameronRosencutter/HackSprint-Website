@@ -68,3 +68,5 @@ This front-end design began with a [Trello](https://trello.com) checklist, and a
     </details>
     <br>
 </p>
+
+Work begun with a skeletal html file, to hold positions of each feature, followed by identifying where research and review would be needed to accomplish the goald. HTML assets new to us include the multi-image banner and in-page navigation bar.
