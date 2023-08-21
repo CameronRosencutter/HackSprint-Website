@@ -139,6 +139,7 @@ text-align: center;
             justify-content: center;
             font-family: cursive;
             color: blue;
+            font-size: 15px;
         }
         
         .div10 { grid-area: 1 / 2 / 2 / 4; background-color: rgb(169, 169, 39); display: flex;}
