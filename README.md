@@ -36,9 +36,7 @@ placeholder: image of trello category for the sections and how we did them
 * placeholder: image of code for that navigation bar
 
 ### CSS Stylesheets
-* placeholder: image of part of website that uses a style
-* placeholder: image of css code that applies to the above "part of website that uses a style"
-* placeholder: image of html file that pulls from css file
+
 <p align="left">
     <details>
         <summary>The Creation</summary>
