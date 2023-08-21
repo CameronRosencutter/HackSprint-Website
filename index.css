@@ -213,15 +213,6 @@ text-align: center;
 
           html {background-color: #00385a;}
 
-          .food-menu-section h1 {
-            font-family: cursive;
-    font-weight: 700;
-    font-size: 50px;
-    color: white;
-    text-align: center;
-    vertical-align: middle;
-    line-height: 90px; 
-          }
 
           .food-menu-section p {
             color: #00385a;
