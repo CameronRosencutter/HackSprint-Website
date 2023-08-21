@@ -1,6 +1,6 @@
 # HackSprint Website: Betty's Breakfast Bistro
 
-This repository contains the web front-end for Betty's Breakfast Bistro
+This repository contains the web front-end for Betty's Breakfast Bistro.
 
 Within, there are demonstrations of the following techniques:
 
@@ -9,8 +9,7 @@ Within, there are demonstrations of the following techniques:
     - [Internal Links](#internal-links)
     - [CSS Stylesheets](#css-stylesheets)
     - [Supplimentary Resources](#supplimentary-resources)
-
-[Trello Checklist](https://trello.com/b/0zztTMTw/ndhlovu-rosencutter-hacksprint)
+    - [Creation Process](#creation-process)
 
 
 placeholder: summarize the steps we took to create the front-end
@@ -56,3 +55,18 @@ placeholder: image of trello category for the sections and how we did them
 ### Supplimentary Resources
 
 * [creating image grids](https://www.w3schools.com/howto/howto_js_image_grid.asp)
+
+
+### Creation Process
+
+This front-end design began with a [Trello](https://trello.com) checklist, and a visual mockup draft to outline the target product.
+
+<p align="left">
+    <details>
+        <summary>Visual Mockup</summary>
+        <img src="Assets/Images/README_images/Websitedraft.png" width="600\"/><br>
+    </details>
+    <br>
+</p>
+
+Work begun with a skeletal html file, to hold positions of each feature, followed by identifying where research and review would be needed to accomplish the goald. HTML assets new to us include the multi-image banner and in-page navigation bar.
