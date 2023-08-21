@@ -265,10 +265,32 @@ text-align: center;
             }
 
             .divd { grid-area: 3 / 1 / 4 / 2; }
+
+            .divd h1 {
+                margin:auto;
+                color: white;
+            }
+
+
             .dive { grid-area: 4 / 1 / 5 / 2; }
+
+
             .divf { grid-area: 3 / 2 / 4 / 3; }
+
+            .divf h1 {
+                margin:auto;
+                color: white;
+            }
+
             .divg { grid-area: 4 / 2 / 5 / 3; }
+
+
             .divh { grid-area: 5 / 1 / 6 / 2; }
+
+            .divh h1 {
+                margin:auto;
+                color: white;
+            }
             .divi { grid-area: 6 / 1 / 7 / 2; }
             .divj { grid-area: 5 / 2 / 6 / 3; }
             .divk { grid-area: 6 / 2 / 7 / 3; }
