@@ -176,13 +176,13 @@ text-align: center;
             position: relative;
             list-style:none;
             height:50px; line-height:50px;
-            background:#00385a; /* you can change the backgorund color here. */
+            background:#030e3f; /* you can change the backgorund color here. */
             font-family:Arial, Helvetica, sans-serif;
             font-size:13px;
             float: right;
         }
         ul.nav li {
-            border-right:1px solid #00385a; /* you can change the border color matching to your background color */
+            border-right:1px solid #065b8f; /* you can change the border color matching to your background color */
             float:left;
         }
         ul.nav a {
@@ -193,5 +193,5 @@ text-align: center;
         }
         ul.nav a:hover,
         ul.nav li.current a {
-            background:#00385a;
+            background:#0e6296;
         }
