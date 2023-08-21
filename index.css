@@ -291,6 +291,16 @@ text-align: center;
                 margin:auto;
                 color: white;
             }
+            
             .divi { grid-area: 6 / 1 / 7 / 2; }
+
+
             .divj { grid-area: 5 / 2 / 6 / 3; }
+            
+            .divj h1 {
+                margin:auto;
+                color: white;
+            }
+
+
             .divk { grid-area: 6 / 2 / 7 / 3; }
