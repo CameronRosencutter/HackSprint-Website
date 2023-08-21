@@ -19,7 +19,15 @@
 
 .About-us h1 {
     font-family: 'Times New Roman', Times, serif sans-serif;
+    color: beige;
 }
+
+.About-us p {
+    background-color: white;
+    justify-content: left;
+    
+}
+
 
 .banner-section {
     padding: 20px 50px;
