@@ -223,13 +223,4 @@ text-align: center;
 
           html {background-color: #00385a;}
 
-          .parent {
-            display: grid;
-            grid-template-columns: repeat(2, 1fr);
-            grid-template-rows: 1fr;
-            grid-column-gap: 0px;
-            grid-row-gap: 0px;
-            }
-            
-            .div1 { grid-area: 1 / 1 / 2 / 2; background-color: aqua; }
-            .div2 { grid-area: 1 / 2 / 2 / 3; background-color: mediumblue; }
+          
