@@ -208,11 +208,11 @@ text-align: center;
 
         .div11 {
             background-color: #19037a;
-            overflow:scroll
+            overflow:scroll;
             white-space: nowrap;
             padding: 10px;
           }
-          
+
           .div11 img {
             padding: 10px;
           }
