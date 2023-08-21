@@ -132,13 +132,14 @@ text-align: center;
         grid-row-gap: 20px;
         }
         
-        /*
+
         .div9 { grid-area: 1 / 1 / 2 / 2; 
             background-color: beige; 
             display: flex;
             justify-content: center;
-        */
-        
+            font-family: cursive;
+            color: blue;
+        }
         
         .div10 { grid-area: 1 / 2 / 2 / 4; background-color: rgb(169, 169, 39); display: flex;}
         .div11 { grid-area: 2 / 1 / 3 / 4; background-color: rgb(118, 40, 179); display: flex;}
