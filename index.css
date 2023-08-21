@@ -17,7 +17,7 @@
     padding: 20px 15px;
 }
 
-.about-us h1 {
+.About-us h1 {
     font-family: 'Times New Roman', Times, serif sans-serif;
 }
 
@@ -29,12 +29,12 @@
     align-items: center;
 }
 
-.about-us h1 {
+.About-us h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 700;
 }
 
-.about-us p {
+.About-us p {
     text-align: left;
     width: 60%;
     margin: auto;
