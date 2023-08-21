@@ -32,12 +32,13 @@ placeholder: image of trello category for the sections and how we did them
 </p>
 
 ### Internal Links
-* placeholder: image of banner
-* placeholder: image of code for that banner section
+* placeholder: image of Navigation bar
+* placeholder: image of code for that navigation bar
 
 ### CSS Stylesheets
 * placeholder: image of part of website that uses a style
-* placeholder: image of code that applies to the above "part of website that uses a style"
+* placeholder: image of css code that applies to the above "part of website that uses a style"
+* placeholder: image of html file that pulls from css file
 
 <details>
     <summary>Resources Consulted</summary>
