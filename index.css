@@ -180,6 +180,7 @@ text-align: center;
             font-family:Arial, Helvetica, sans-serif;
             font-size:13px;
             float: right;
+            display: flex;
         }
         ul.nav li {
             border-right:1px solid #065b8f; /* you can change the border color matching to your background color */
@@ -199,11 +200,11 @@ text-align: center;
         div.scroll-container {
             background-color: #333;
             overflow: auto;
-            display: inline;
+            display: flex;
             top: 25%;
           }
           
           div.scroll-container img {
             padding: 10px;
-            display: inline;
+            display: flex;
           }
