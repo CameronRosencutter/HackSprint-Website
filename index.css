@@ -274,11 +274,15 @@ text-align: center;
             }
 
 
-            .dive { grid-area: 4 / 1 / 5 / 2; }
+            .dive { grid-area: 4 / 1 / 5 / 2;
+                width: 500px;
+            }
 
             .dive p {
                 color:#00385a;
                 background-color: white;
+                font-size: 40px;
+                text-indent: 30px;
             }
 
 
