@@ -154,6 +154,7 @@ text-align: center;
 
         .div9 img {
             position: absolute;
+            display: flex;
             top: 15%;
             left: 8%;
             transform: translate(-50%, -50%);
