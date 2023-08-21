@@ -131,11 +131,11 @@ text-align: center;
         grid-column-gap: 0px;
         grid-row-gap: 0px;
         }
-        
 
-        .div9 { 
-            grid-area: 1 / 1 / 2 / 2; 
-            background-color: #00385a; 
+
+        .div9 {
+            grid-area: 1 / 1 / 2 / 2;
+            background-color: #00385a;
             display: flex;
             justify-content: center;
             font-family: cursive;
@@ -158,10 +158,10 @@ text-align: center;
             left: 8%;
             transform: translate(-50%, -50%);
         }
-        
-        .div10 { 
-            grid-area: 1 / 2 / 2 / 4; 
-            background-color: #00385a; 
+
+        .div10 {
+            grid-area: 1 / 2 / 2 / 4;
+            background-color: #00385a;
             display: flex;
             height: 50px;
         }
@@ -203,7 +203,7 @@ text-align: center;
             display: flex;
             top: 25%;
           }
-          
+
           div.scroll-container img {
             padding: 10px;
             display: flex;
