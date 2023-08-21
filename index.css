@@ -210,11 +210,11 @@ text-align: center;
             background-color: #333;
             overflow: auto;
             white-space: nowrap;
-            padding: 10px;
+            padding: 1px;
           }
           
         .div11 img {
-            height: 50%;
+            height: 90%;
             width: auto;
             padding: 10px;
           }
