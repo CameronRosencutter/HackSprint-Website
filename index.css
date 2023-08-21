@@ -173,7 +173,7 @@ text-align: center;
         ul.nav {
             margin:0;
             padding:0;
-            justify-content: left;
+            position: relative;
             list-style:none;
             height:50px; line-height:50px;
             background:#0d7963; /* you can change the backgorund color here. */
