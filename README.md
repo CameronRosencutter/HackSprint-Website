@@ -43,15 +43,15 @@ placeholder: image of trello category for the sections and how we did them
 <p align="left">
     <details>
         <summary>The Creation</summary>
-        The text is intentionally and specifically styled:
+        The text is intentionally and specifically styled:<br>
         <img src="Assets/Images/README_images/css_formatting_product.PNG" width="400\"/>
     </details>
 <br>
     <details>
         <summary>The Code</summary>
-        The style is defined within a css file:
+        The style is defined within a css file:<br>
         <img src="Assets/Images/README_images/css_formatting_css.PNG" width="400\"/>
-        The css file is linked as the stylesheet for the html document:
+        The css file is linked as the stylesheet for the html document:<br>
         <img src="Assets/Images/README_images/css_formatting_html_link.PNG" width="400\"/>
     </details>
   <img src="" width="400\"/>
