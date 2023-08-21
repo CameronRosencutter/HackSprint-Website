@@ -202,8 +202,10 @@ text-align: center;
             white-space: nowrap;
             padding: 10px;
             display: flex;
+            
           }
           
           div.scroll-container img {
             padding: 10px;
+            display: flex;
           }
