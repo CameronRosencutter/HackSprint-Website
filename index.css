@@ -113,25 +113,7 @@ text-align: center;
     font-style: oblique;
     }
     
-    .div1 { grid-area: 1 / 1 / 2 / 2;  }
-    .div2 { grid-area: 2 / 1 / 3 / 2;  }
-    .div3 { grid-area: 1 / 2 / 2 / 3;  }
-    .div4 { grid-area: 2 / 2 / 3 / 3;  }
-    .div5 { grid-area: 3 / 1 / 4 / 2;  }
-    .div6 { grid-area: 4 / 1 / 5 / 2;  }
-    .div7 { grid-area: 3 / 2 / 4 / 3;  }
-    .div8 { grid-area: 4 / 2 / 5 / 3;  }
-
-    .white-box {
-        background-color: white;
-        color: black;
-        font-family: Arial, Helvetica, sans-serif;
-        font-size: 18px;
-        height: 70%;
-        width: auto;
-        padding-top: 1px;
-        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;   
-    }
+  
 
     .newparent {
         overflow:hidden;
@@ -241,3 +223,23 @@ text-align: center;
           .food-menu-section p {
             color: #00385a;
           }
+
+          .parent {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            grid-template-rows: repeat(6, 1fr);
+            grid-column-gap: 0px;
+            grid-row-gap: 0px;
+            }
+            
+            .diva { grid-area: 1 / 1 / 2 / 2; }
+            .divb { grid-area: 1 / 2 / 2 / 3; }
+            .divc { grid-area: 2 / 1 / 3 / 3; }
+            .divd { grid-area: 3 / 1 / 4 / 2; }
+            .dive { grid-area: 4 / 1 / 5 / 2; }
+            .divf { grid-area: 3 / 2 / 4 / 3; }
+            .divg { grid-area: 4 / 2 / 5 / 3; }
+            .divh { grid-area: 5 / 1 / 6 / 2; }
+            .divi { grid-area: 6 / 1 / 7 / 2; }
+            .divj { grid-area: 5 / 2 / 6 / 3; }
+            .divk { grid-area: 6 / 2 / 7 / 3; }
