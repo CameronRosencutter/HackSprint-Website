@@ -11,6 +11,33 @@
     /*Div 2 Nav*/
     .div2 { grid-area: 1 / 2 / 2 / 3; }
 
+    ul.nav {
+        margin:0;
+        padding:0;
+        position: relative;
+        list-style:none;
+        height:50px; line-height:50px;
+        background:#1c2650; /* you can change the backgorund color here. */
+        font-family:Arial, Helvetica, sans-serif;
+        font-size:13px;
+        float: left;
+        display: flex;
+    }
+    ul.nav li {
+        border-right:1px solid #065b8f; /* you can change the border color matching to your background color */
+        float:left;
+    }
+    ul.nav a {
+        display:block;
+        padding:0 28px;
+        color:#ccece6;
+        text-decoration:none;
+    }
+    ul.nav a:hover,
+    ul.nav li.current a {
+        background:#0e6296;
+    }
+
     .nav-flex-row {
         display: flex;
         flex-direction: row;
