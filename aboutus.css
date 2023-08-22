@@ -21,6 +21,10 @@
     font-style: oblique;
     }
 
+.Cameron{
+    display: flex;
+}
+
     .Cameron h1 {
         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
         color: white;
