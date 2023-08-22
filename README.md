@@ -18,6 +18,7 @@ placeholder: image of trello category for the sections and how we did them
 
 
 ### Fetching Local Assets
+
 <p align="left">
     <details>
         <summary>The Creation</summary>
@@ -31,8 +32,18 @@ placeholder: image of trello category for the sections and how we did them
 </p>
 
 ### Internal Links
-* placeholder: image of Navigation bar
-* placeholder: image of code for that navigation bar
+
+<p align="left">
+    <details>
+        <summary>The Creation</summary>
+        <img src="Assets/Images/README_images/Navigation_before-zoomed.PNG" width="600\"/><br>
+    </details>
+<br>
+    <details>
+        <summary>The Code</summary>
+        <img src="Assets/Images/README_images/Navigation_code.PNG" width="600\"/><br>
+    </details>
+</p>
 
 ### CSS Stylesheets
 
