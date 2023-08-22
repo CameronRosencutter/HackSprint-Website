@@ -50,11 +50,15 @@ placeholder: image of trello category for the sections and how we did them
         The css file is linked as the stylesheet for the html document:<br>
         <img src="Assets/Images/README_images/css_formatting_html_link.PNG" width="600\"/><br>
     </details>
+    <br>
+    <p>The grid of images and assets within the file is also defined within this css stylesheet. The definitions were written with assistance from this <a href="https://cssgrid-generator.netlify.app">CSS Grid Generator tool</a>.</p>
 </p>
+
 
 ### Supplimentary Resources
 
 * [creating image grids](https://www.w3schools.com/howto/howto_js_image_grid.asp)
+* [CSS Grid Generator](https://cssgrid-generator.netlify.app)
 
 
 ### Creation Process
