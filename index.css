@@ -380,10 +380,4 @@ text-align: center;
                 color: white;
             }
 
-            .aboutparent {
-                display: flex;
-                grid-template-columns: repeat(2, 1fr);
-                grid-template-rows: repeat(2, 1fr);
-                grid-column-gap: 0px;
-                grid-row-gap: 20px;
-                }
+            
