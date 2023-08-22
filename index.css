@@ -387,8 +387,3 @@ text-align: center;
                 grid-column-gap: 0px;
                 grid-row-gap: 20px;
                 }
-                
-                .aboutdiv1 { grid-area: 1 / 1 / 2 / 2; }
-                .aboutdiv2 { grid-area: 1 / 2 / 2 / 3; }
-                .aboutdiv3 { grid-area: 2 / 1 / 3 / 2; }
-                .aboutdiv4 { grid-area: 2 / 2 / 3 / 3; }
