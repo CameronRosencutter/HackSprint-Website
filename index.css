@@ -375,3 +375,7 @@ text-align: center;
                 outline: 5px dotted rgb(35, 164, 162);
                 width: 500px;
             }
+
+            .diva h1 {
+                color: white;
+            }
